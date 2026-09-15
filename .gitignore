@@ -1,0 +1,25 @@
+# Данные пользователя — НЕ коммитить!
+data/
+config.json
+
+# Сборка PyInstaller
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# ОС
+Thumbs.db
+.DS_Store
