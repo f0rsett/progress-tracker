@@ -37,3 +37,5 @@ python tracker.py
 
 ### Цели и прогресс
 ![Цели](screenshots/goals.png)
+
+[**Скачать последнюю версию**](../../releases/latest)
