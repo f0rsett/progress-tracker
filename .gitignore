@@ -32,4 +32,5 @@ seed.py
 config.json
 
 data/
+profiles/
 *.db
