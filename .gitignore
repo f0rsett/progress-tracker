@@ -30,3 +30,6 @@ seed.py
 
 # config.json — хранит личный путь к папке данных и настройки
 config.json
+
+data/
+*.db
