@@ -47,3 +47,12 @@ python tracker.py
 
 ### График KDA
 <img src="screenshots/graph_KDA.png" width="500"/>
+
+### График ежедневной цели
+<img src="screenshots/daily_graph.png" width="500"/>
+
+### Тепловая карта
+<img src="screenshots/heatmap.png" width="500"/>
+
+### График Range (время + количество убитых ботов)
+<img src="screenshots/range_graph.png" width="500"/>
